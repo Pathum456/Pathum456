@@ -4,16 +4,29 @@
   
 - 🌱 I’m currently learning _**Software Developing** & **Web Devoloping**.
   
+  
+  
 - ___Languages___ 
+    
     **Java**,
+    
     **Javafx**,
+    
     **Java Script**.
     
+    
+    
 - ___Working Tools___
-        Intelig IDEA,
-        MySQL,
-        NodeJs,
-        etc...
+    
+    **Intelig** **IDEA**,
+    
+    **MySQL**,
+
+    **NodeJs**,
+
+    **etc**...
+        
+        
         
 - 📫 Get On Touch **_ME_**...
         
