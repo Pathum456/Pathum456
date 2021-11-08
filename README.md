@@ -2,13 +2,14 @@
   
 - 👀 I’m interested in resolving _problems_.
   
-- 🌱 I’m currently learning _**Software Developing** & **Web Devoloping.
+- 🌱 I’m currently learning _**Software Developing** & **Web Devoloping**.
   
--___Languages___ 
+- ___Languages___ 
     **Java**,
     **Javafx**,
     **Java Script**.
--___Working Tools___
+    
+- ___Working Tools___
         Intelig IDEA,
         MySQL,
         NodeJs,
