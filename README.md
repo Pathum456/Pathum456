@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Pathum_Kaleesha
+- 👋 Hi, I’m 😊 **Pathum_Kaleesha** 😊
   
-- 👀 I’m interested in resolving _problems_.
+- 👀 I’m interested in **_Resolving_ _problems_**.
   
 - 🌱 I’m currently learning _**Software Developing** & **Web Devoloping**.
   
   
   
-- ___Languages___ 
+- ___Languages___ 😝😝
     
     **Java**,
     
@@ -16,7 +16,7 @@
     
     
     
-- ___Working Tools___
+- ___Working Tools___ ⚙⚙⚙
     
     **Intelig** **IDEA**,
     
@@ -28,7 +28,7 @@
         
         
         
-- 📫 Get On Touch **_ME_**...
+- 📫 Get On Touch **_ME_**...🛂
         
     [Email](pathumkaleesha618@gmail.com) : _pathumKaleesha618@gmail.com_
   
