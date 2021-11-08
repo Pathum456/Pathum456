@@ -30,7 +30,7 @@
         
 - 📫 Get On Touch **_ME_**...🛂
         
-    [Email](pathumkaleesha618@gmail.com) : _pathumKaleesha618@gmail.com_
+    [Email](gmail.com) : _pathumKaleesha618@gmail.com_
   
     [twitter](https://twitter.com/Pathum_Kaleesha) : Pathum_Kaleesha
     
