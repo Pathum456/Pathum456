@@ -39,5 +39,5 @@
     [FaceBook](https://www.facebook.com/profile.php?id=100074316473313) : Pathum Kaleesha
   
     [Contact]() :__+94777921473__
-    `git status`
+ 
   
