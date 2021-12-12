@@ -6,7 +6,7 @@
   
   
   
-- ___Languages___ 😝😝
+#- ___Languages___ 😝😝
     
     **Java**,
     
@@ -16,7 +16,7 @@
     
     
     
-- ___Working Tools___ ⚙⚙⚙
+#- ___Working Tools___ ⚙⚙⚙
     
     **Intelig** **IDEA**,
     
@@ -28,7 +28,7 @@
         
         
         
-- 📫 Get On Touch **_ME_**...🛂
+#- 📫 Get On Touch **_ME_**...🛂
         
     [Email](gmail.com) : _pathumKaleesha618@gmail.com_
   
