@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2786B6&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=1BD0FF&center=true&vCenter=true&width=481&lines=IJSE+%7C+Institute+of+Software+Engineering)](https://git.io/typing-svg)
 
-#### I've been practicing programming for over 2 years and I'm always learning and constantly improving as a[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=0E0205&vCenter=true&width=257&lines=Full-stack+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/Pathum456/Pathum456"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1BD0FF&vCenter=true&width=218&lines=Software+Engineer+%7C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0844AE&vCenter=true&width=287&lines=Technical+Content+Writer+%7C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1BD0FF&vCenter=true&width=286&lines=Data+Analysis+Enthusiast)](https://git.io/typing-svg)
 
 ![Pathum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathum456&show_icons=true&theme=radical&count_private=true)
 
