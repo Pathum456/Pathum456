@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2786B6&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.)](https://git.io/typing-svg)
 
-I've been practicing programming for over 2 years and I'm always learning and constantly improving as a[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=0E0205&vCenter=true&width=257&lines=Full-stack+Developer)](https://git.io/typing-svg)
+###I'm
+- #####have been practicing programming for over 2 years and I'm always learning and constantly improving as a[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=0E0205&vCenter=true&width=257&lines=Full-stack+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=B61B3E&vCenter=true&width=520&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
