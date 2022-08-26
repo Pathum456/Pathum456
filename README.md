@@ -5,8 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1BD0FF&vCenter=true&width=218&lines=Software+Engineer+%7C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0844AE&vCenter=true&width=287&lines=Technical+Content+Writer+%7C)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=1BD0FF&vCenter=true&width=286&lines=Data+Analysis+Enthusiast)](https://git.io/typing-svg)
 
+![Pathum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathum456&show_icons=true&theme=radical&count_private=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=B61B3E&vCenter=true&width=520&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum456&layout=compact&theme=cobalt)](https://github.com/Pathum456/github-readme-stats)
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a></a> 
@@ -34,7 +37,12 @@
     <a href="https://www.linkedin.com/in/pathum-kaleesha-166a15225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
     <a href="https://www.facebook.com/profile.php?id=100074316473313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dilshan Jayarathne" height="30" width="40" /></a>
  
-[![GitHub followers](https://img.shields.io/github/followers/Pathum456.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pathum456?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Pathum456.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Pathum456?tab=followers)   
 </p>
- 
+
+[![PathumKaleesha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pathum456&theme=dracula)](https://github.com/pathum456/github-readme-activity-graph)
+
+
+
+
   
