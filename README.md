@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=261BB6&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.;Software+Developing+%26+Web+Developing)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2786B6&vCenter=true&width=510&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.)](https://git.io/typing-svg)
 <h3 align="left"><b><i>Languages and Tools:</i></b></h3>
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
