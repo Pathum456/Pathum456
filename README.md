@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2786B6&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.)](https://git.io/typing-svg)<h3 align="left"><b><i>Languages and Tools:</i></b></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2786B6&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%F0%9F%98%8A+Pathum_Kaleesha+%F0%9F%98%8A;%F0%9F%91%80+I%E2%80%99m+interested+in+Resolving+problems.)](https://git.io/typing-svg)
+
+I've been practicing programming for over 2 years and I'm always learning and constantly improving as a[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=0E0205&vCenter=true&width=257&lines=Full-stack+Developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=B61B3E&vCenter=true&width=520&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a></a> 
@@ -12,6 +16,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://hibernate.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pathum456&theme=bear&hide_border=true&fire=DD2727&ring=112AFF&dates=3BDDDD&currStreakLabel=94ABDD)](https://git.io/streak-stats)       
 - 📫 Get On Touch **_ME_**...🛂
