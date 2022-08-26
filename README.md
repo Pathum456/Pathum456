@@ -2,7 +2,8 @@
 
 ### I'm,
 - #### have been practicing programming for over 2 years and I'm always learning and constantly improving as a[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=0E0205&vCenter=true&width=257&lines=Full-stack+Developer)](https://git.io/typing-svg)
-- #### student of[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=1BD0FF&vCenter=true&width=481&lines=IJSE+%7C+Institute+of+Software+Engineering)](https://git.io/typing-svg)
+- #### student of
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2500&color=1BD0FF&vCenter=true&width=481&lines=IJSE+%7C+Institute+of+Software+Engineering)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=B61B3E&vCenter=true&width=520&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
